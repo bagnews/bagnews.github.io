@@ -1,2 +1,2 @@
 # bagnews.github.io
-bag news
+[bag news](https://bagnews.github.io/)
